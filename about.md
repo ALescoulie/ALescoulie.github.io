@@ -8,8 +8,8 @@ Alia Lescoulie a second year biochemistry student at Cal Poly in San Luis Obispo
 
 ### More Information
 
-View some of my work on [GitHub](https://github.com/ALescoulie)
+View some of Alia's work on [GitHub](https://github.com/ALescoulie)
 
 ### Contact me
 
-[alescoul.edu](mailto:alescoul@calpoly.edu)
+[alescoul@calpoly.edu](mailto:alescoul@calpoly.edu)
