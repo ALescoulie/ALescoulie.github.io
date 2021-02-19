@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Alia Lescoulie a second year biochemistry student at Cal Poly in San Luis Obispo. 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+View some of my work on [GitHub](https://github.com/ALescoulie)
 
 ### Contact me
 
-[armcdona@calpoly.edu](mailto:armcdona@calpoly.edu)
+[alescoul.edu](mailto:alescoul@calpoly.edu)
