@@ -2,4 +2,5 @@
 layout: post
 title: Welcome!
 ---
-You can change the title above if you want to and then write your content.  
+
+I am a biochemistrty student at Cal Poly working on molecular dynamics rescearch under [Ashley Ringer-McDonald](https://armcdona.github.io) and chemioinformatics under [Erik Sapper](https://esapper.github.io).
