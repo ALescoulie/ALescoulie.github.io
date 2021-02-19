@@ -6,7 +6,7 @@ permalink: /about/
 
 Alia Lescoulie a second year biochemistry student at Cal Poly in San Luis Obispo. 
 
-### More Information
+### Work
 
 View some of Alia's work on [GitHub](https://github.com/ALescoulie)
 
