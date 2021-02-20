@@ -8,6 +8,9 @@ permalink: /about/
 <br><br/>
 <br><br/>
 <br><br/>
+<br><br/>
+
+---
 ### Work
 
 View some of Alia's work on [GitHub](https://github.com/ALescoulie) or a summary of existing [projects](https://alescoulie.github.io/projects/).
