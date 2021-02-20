@@ -8,7 +8,6 @@ permalink: /about/
 <br><br/>
 <br><br/>
 <br><br/>
-<br><br/>
 
 ---
 ### Work
