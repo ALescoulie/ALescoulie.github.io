@@ -4,9 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<img src="images/about.png" alt="alia photo" style="height: 100px; width:100px;"/>
-
-Alia Lescoulie a second year biochemistry student at Cal Poly in San Luis Obispo. She is currently working on molecular dynamics rescearch under [Ashley Ringer-McDonald](https://armcdona.github.io) and chemioinformatics under [Erik Sapper](https://esapper.github.io). More information on current and past projects is visible on the [projects](https://alescoulie.github.io/projects/) page. She is mainly interested rescearch at the instersection of biology, chemistry, and software.
+<img src="images/about.png" alt="alia photo" align="left" style="float:left" height="280px" width="200px"/> <p>Alia Lescoulie a second year biochemistry student at Cal Poly in San Luis Obispo. She is currently working on molecular dynamics rescearch under [Ashley Ringer-McDonald](https://armcdona.github.io) and chemioinformatics under [Erik Sapper](https://esapper.github.io). More information on current and past projects is visible on the [projects](https://alescoulie.github.io/projects/) page. She is mainly interested rescearch at the instersection of biology, chemistry, and software.</p>
 
 ### Work
 
